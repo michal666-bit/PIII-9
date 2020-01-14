@@ -1,0 +1,11 @@
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.exe
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.deps.json
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.runtimeconfig.json
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.runtimeconfig.dev.json
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.dll
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\bin\Debug\netcoreapp3.0\PIII-9.pdb
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\obj\Debug\netcoreapp3.0\PIII-9.csprojAssemblyReference.cache
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\obj\Debug\netcoreapp3.0\PIII-9.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\obj\Debug\netcoreapp3.0\PIII-9.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\obj\Debug\netcoreapp3.0\PIII-9.dll
+C:\Users\Gosia\source\repos\PIII-9\PIII-9\obj\Debug\netcoreapp3.0\PIII-9.pdb
